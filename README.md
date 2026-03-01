@@ -21,7 +21,7 @@ Predicts the popularity level (Low / Medium / High) of Mashable articles using a
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mewwmewie/predictive-analytics.git
 cd online-news-popularity
 ```
 
